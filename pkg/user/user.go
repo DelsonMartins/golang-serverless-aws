@@ -1,7 +1,6 @@
 package user
 
 import (
-	//	"github.com/akhil/go-serverless-yt/pkg/validators"
 	"encoding/json"
 	"errors"
 
